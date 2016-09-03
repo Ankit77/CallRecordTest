@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="paste_file_title">
+        <item quantity="other">%d files for paste</item>
+        <item quantity="one">One file for paste</item>
+    </plurals>
+</resources>

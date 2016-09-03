@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="container">false</item>
+    <item type="id" name="lv_file_list">false</item>
+    <item type="id" name="ll_control">false</item>
+    <item type="id" name="ib_share">false</item>
+    <item type="id" name="ib_copy">false</item>
+    <item type="id" name="ib_cut">false</item>
+    <item type="id" name="ib_delete">false</item>
+    <item type="id" name="s_switch">false</item>
+    <item type="id" name="tli_storage_location">false</item>
+    <item type="id" name="textview1">false</item>
+    <item type="id" name="tv_location_text">false</item>
+    <item type="id" name="tli_record_file">false</item>
+    <item type="id" name="textview2">false</item>
+    <item type="id" name="tli_version">false</item>
+    <item type="id" name="textview3">false</item>
+    <item type="id" name="iv_file_type">false</item>
+    <item type="id" name="tv_file_name">false</item>
+    <item type="id" name="tv_count">false</item>
+    <item type="id" name="tv_empty_view">false</item>
+    <item type="id" name="ib_cancle">false</item>
+    <item type="id" name="ib_operate">false</item>
+    <item type="id" name="iv_record_market">false</item>
+</resources>

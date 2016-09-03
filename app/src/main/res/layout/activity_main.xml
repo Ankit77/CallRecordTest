@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffffff"
+    android:orientation="vertical">
+
+    <Switch
+        android:id="@id/s_switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/press_background"
+        android:paddingBottom="12dp"
+        android:paddingTop="12dp"
+        android:text="@string/auto_call_record"
+        android:textSize="20sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+         />
+
+    <TwoLineListItem
+        android:id="@id/tli_storage_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layout_click_background"
+        android:clickable="true"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@id/textview1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/storage_location"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@id/tv_location_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview1"
+            android:text="@string/phone" />
+    </TwoLineListItem>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+         />
+
+    <TwoLineListItem
+        android:id="@id/tli_record_file"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layout_click_background"
+        android:clickable="true"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@id/textview2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/record_file_list"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview2"
+            android:text="@string/brower_record_file" />
+    </TwoLineListItem>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+       />
+
+    <TwoLineListItem
+        android:id="@id/tli_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layout_click_background"
+        android:clickable="true"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@id/textview3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/version"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview3"
+            android:text="@string/current_version" />
+    </TwoLineListItem>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+         />
+</LinearLayout>

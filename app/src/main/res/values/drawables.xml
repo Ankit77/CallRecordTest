@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="normal">#ffeaeaea</item>
+    <item type="drawable" name="layout_normal">#ffffffff</item>
+    <item type="drawable" name="press">#ff99ccff</item>
+</resources>

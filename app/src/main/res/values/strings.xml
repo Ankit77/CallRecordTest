@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Call Record</string>
+    <string name="record_file_list">Record File List</string>
+    <string name="phone">Phone</string>
+    <string name="sd_card">SD Card</string>
+    <string name="dialog_title">Choose storage location</string>
+    <string name="ok">OK</string>
+    <string name="cancle">cancel</string>
+    <string name="auto_call_record">Auto call record</string>
+    <string name="storage_location">Storage Location</string>
+    <string name="brower_record_file">Browser record file</string>
+    <string name="version">Version</string>
+    <string name="current_version">version:2013.09.01</string>
+    <string name="no_call_record_item">No call record item</string>
+    <string name="no_folder">Empty Folder</string>
+    <string name="delete_dialog_title">Delete record files</string>
+    <string name="delete_message">Do you want to delete the selected record files?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="low_memory">Insufficient storage space</string>
+    <string name="low_memory_message">\u0009Equipment out of storage space, please insert the SD Memory Card!</string>
+    <string name="action_mode_title">Select Items</string>
+    <string name="subtitle">One item selected</string>
+    <string name="subtitle_suffix">items selected</string>
+    <string name="action_bar_title">Move File</string>
+    <string name="copy_success">Copy Success!</string>
+    <string name="copy_fail">Copy Fail!</string>
+    <string name="move_success">Move Success!</string>
+    <string name="move_fail">Move Fail!</string>
+    <string name="targe_directory_not_exsit">"Directory isn't exist or is read-only, paste fail."</string>
+</resources>
